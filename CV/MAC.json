@@ -17,5 +17,18 @@
         "notes": "Barcelona"
       }
     }
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ]
   }
 }
