@@ -16,7 +16,13 @@
       "location": {
         "notes": "Barcelona"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ferran-buireu/"
+      }
+    ]
   },
   "knowledge": {
     "languages": [
@@ -30,5 +36,15 @@
         "name": "Spanish"
       }
     ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/ferran-buireu/"
+        }
+      ]
+    }
   }
 }
