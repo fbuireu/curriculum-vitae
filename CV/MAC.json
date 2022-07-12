@@ -199,6 +199,62 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Leadtech Innovation",
+          "image": {
+            "alt": "1625215584238.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/307b7afd-4c30-40ed-a9a2-bd9ecb09d520_1625215584238.jpg"
+          },
+          "URL": "https://leadtech.com/"
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2019-05-01",
+            "finishDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "Full-stack position specialized in the development of new projects from concept to delivery. The nature of the job requires a code that is optimized for maximum neatness and scalability. Independent technical decision-making on a daily basis, cooperation in the onboarding of new team members, and delivery of team training sessions."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
