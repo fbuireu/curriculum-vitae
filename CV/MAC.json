@@ -91,6 +91,54 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Leadtech Innovation",
+          "image": {
+            "alt": "1625215584238.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/bc354747-34cc-49e6-b885-9fad9831b429_1625215584238.jpg"
+          },
+          "URL": "https://leadtech.com/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Engineer Team Lead",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Leading a Frontend/Full-stack team developing a multiplatform B2C project. Development of new features with high-performance standards, design patterns, and best practices.\nTalent selection & retention, continuous mentoring, guidance, and career plan development. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
