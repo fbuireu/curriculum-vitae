@@ -221,7 +221,7 @@
           "name": "Leadtech Innovation",
           "image": {
             "alt": "1625215584238.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/307b7afd-4c30-40ed-a9a2-bd9ecb09d520_1625215584238.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/23d550fb-9c68-4b5f-b71e-9c18cd7fefe8_1625215584238.jpg"
           },
           "URL": "https://leadtech.com/"
         },
@@ -258,6 +258,14 @@
               },
               {
                 "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Redux-Saga",
                 "type": "technology"
               },
               {
