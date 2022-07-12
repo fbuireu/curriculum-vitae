@@ -271,6 +271,74 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Leadtech Innovation",
+          "image": {
+            "alt": "1625215584238.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/7e1bd144-f515-4a8d-a634-df2ba8a2d6b6_1625215584238.jpg"
+          },
+          "URL": "https://leadtech.com/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2018-12-01",
+            "finishDate": "2019-11-01",
+            "challenges": [
+              {
+                "description": "Front-end developer position responsible for several projects, websites, and landings. The role implies great adaptability and quick thinking due to the needs of the team."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "Grunt",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Twig",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
