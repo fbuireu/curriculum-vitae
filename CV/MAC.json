@@ -47,6 +47,53 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "New Work SE",
+          "image": {
+            "alt": "new-work-se-logo-vector.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/ed32ec7c-e53c-4466-be8b-7cc05a218873_new-work-se-logo-vec.png"
+          },
+          "URL": "https://www.xing.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Responsible for a B2B part of the New Work SE (XING) recruiting platform. Creating a new brand tool merging the existing monoliths coded in different programming languages."
+              }
+            ],
+            "competences": [
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
