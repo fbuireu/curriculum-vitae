@@ -139,6 +139,66 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Leadtech Innovation",
+          "image": {
+            "alt": "1625215584238.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/e21f4381-60d1-4fe0-a51f-652c357af0cc_1625215584238.jpg"
+          },
+          "URL": "https://leadtech.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2020-11-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Developer role that requires design and development of the architecture of cross-platform projects focused on scalability, maintainability, performance, best-practice, and design patterns. Also mentoring new team members."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Dart",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Flutter",
+                "type": "technology"
+              },
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Serverless",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
