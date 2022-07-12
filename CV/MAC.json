@@ -363,6 +363,70 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Grup Peralada",
+          "image": {
+            "alt": "download.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/354ccc1c-3c70-4b14-a00e-d225d56de7d6_download.jpg"
+          },
+          "URL": "https://www.casinobarcelona.com/"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2017-04-01",
+            "finishDate": "2018-12-01",
+            "challenges": [
+              {
+                "description": "Front-end programmer responsible for the development of websites, landings, and newsletters as part of the company’s marketing campaigns. Also in charge of domain and DNS handling and, occasionally, the management of individual projects and client communication. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Grunt",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Twig",
+                "type": "technology"
+              },
+              {
+                "name": "Vagrant",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
