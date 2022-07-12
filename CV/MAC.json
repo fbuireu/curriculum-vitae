@@ -427,6 +427,58 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Malabars",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/a262a02b-7fc9-4f1c-b4b3-a96ddbb7d2af_logo.png"
+          },
+          "URL": "https://www.malabars.com/"
+        },
+        "roles": [
+          {
+            "name": "Junior web developer",
+            "startDate": "2016-04-01",
+            "finishDate": "2017-04-01",
+            "challenges": [
+              {
+                "description": "Full-stack programmer in charge of the development of websites and landings in a digital agency environment. The role requires liaising between internal teams (i.e. UX/UI) and high-profile clients such as TOUS and El Corte Inglés, as well as occasionally act as a project manager."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
