@@ -105,7 +105,7 @@
           "name": "Leadtech Innovation",
           "image": {
             "alt": "1625215584238.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/bc354747-34cc-49e6-b885-9fad9831b429_1625215584238.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/92fb47b7-0fdb-4199-84a3-0b9aa9293690_1625215584238.jpg"
           },
           "URL": "https://leadtech.com/"
         },
@@ -120,6 +120,10 @@
               }
             ],
             "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
               {
                 "name": "Gatsby",
                 "type": "technology"
@@ -138,6 +142,10 @@
               },
               {
                 "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
                 "type": "technology"
               },
               {
