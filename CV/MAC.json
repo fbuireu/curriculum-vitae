@@ -659,6 +659,64 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Certificate of Higher Education in Web Development",
+        "startDate": "2014-09-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "STUCOM Centre d'Estudis",
+          "description": "The main goal of the course is to develop, implement and maintain web applications, regardless of the model used and using specific technologies, ensuring access to the data safety and fulfilling the accessibility, usability and quality criteria demanded in the established standards.",
+          "URL": "https://www.stucom.com/es/ciclo-formativo-grado-superior-desarrollo-aplicaciones-web-cfgs-daw/",
+          "image": {
+            "alt": "LOGO_CURS.2.1.1.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/55fc9a7c-e97d-48f7-ac32-061fc7271a92_logo_curs.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "MSc in Geology and Reservoir Geophysics",
         "startDate": "2013-09-01",
         "finishDate": "2014-07-01",
