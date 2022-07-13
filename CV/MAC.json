@@ -480,6 +480,57 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": " Vermell 032",
+          "description": "Full-scale project development for an interior design studio in Barcelona. Performing the related parts of system administration, domain and DNS management, site design, development, and programming.",
+          "URL": "https://vermell032.com/",
+          "image": {
+            "alt": "V032.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/6ca34b0e-2d41-4f66-abaa-1927297a9413_v032.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-11-01",
+            "finishDate": "2016-12-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
