@@ -743,6 +743,22 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "BSc in Geology",
+        "startDate": "2009-09-01",
+        "finishDate": "2013-07-01",
+        "institution": {
+          "name": "Universitat de Barcelona",
+          "description": "The general objective of the career is to form professionals with wide and large knowledge in the principles and practical applications of geology, focusing in the skills to work in private and public sector companies in the field, public sector geological services, research, and education, knowing how to adapt in an evolving work environment.",
+          "URL": "https://www.ub.edu/web/ub/en/estudis/oferta_formativa/graus/fitxa/G/G1043/index.html?",
+          "image": {
+            "alt": "escutUB.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/d59f257b-88cb-46fd-99cb-14a9651371b9_escutub.jpg"
+          }
+        }
       }
     ]
   },
