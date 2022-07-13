@@ -654,6 +654,38 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MSc in Geology and Reservoir Geophysics",
+        "startDate": "2013-09-01",
+        "finishDate": "2014-07-01",
+        "institution": {
+          "name": "Universitat de Barcelona",
+          "description": "The master's degree in Reservoir geology and geophysics is an interuniversity degree coordinated by the University of Barcelona and the Autonomous University of Barcelona.\n\nIt is intended to provide students with training in the main lines of R&D&I currently pursued in the exploration and geological and geophysical characterization of geological reservoirs.\nStudents will gain familiarity with the most modern techniques and tools currently used by the members of research teams involved as teaching faculty in the program. These techniques and tools include the three-dimensional characterization of reservoirs and the analogical and numerical modeling of geological processes.\n\nThe rapid spread of these techniques makes them fundamental to the effective characterization of structural systems and sedimentary reservoirs.",
+          "URL": "https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_universitari/fitxa/R/M0Z05/index.html",
+          "image": {
+            "alt": "escutUB.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/a7ba99d3-20e4-4aba-8c93-0f9e29d9752d_escutub.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Autocad",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
