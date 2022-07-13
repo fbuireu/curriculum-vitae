@@ -657,6 +657,35 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Arc Certified Remote Developer",
+        "startDate": "2021-10-01",
+        "finishDate": "2021-10-01",
+        "institution": {
+          "name": "Arc ",
+          "URL": "https://arc.dev/@fbuireu"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Certificate of Higher Education in Web Development",
