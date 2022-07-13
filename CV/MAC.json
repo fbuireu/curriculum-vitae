@@ -664,7 +664,11 @@
         "finishDate": "2021-10-01",
         "institution": {
           "name": "Arc ",
-          "URL": "https://arc.dev/@fbuireu"
+          "URL": "https://arc.dev/@fbuireu",
+          "image": {
+            "alt": "share-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/83b3f813-e38b-4010-894f-c0b4cbcefe61_share-logo.png"
+          }
         },
         "linkedCompetences": [
           {
