@@ -756,9 +756,23 @@
           "URL": "https://www.ub.edu/web/ub/en/estudis/oferta_formativa/graus/fitxa/G/G1043/index.html?",
           "image": {
             "alt": "escutUB.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/d59f257b-88cb-46fd-99cb-14a9651371b9_escutub.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/43ca8aa6-e7c2-46d9-8228-0891647d3066_escutub.jpg"
           }
-        }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Autocad",
+            "type": "technology"
+          },
+          {
+            "name": "Excel",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
