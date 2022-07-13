@@ -537,7 +537,11 @@
         "details": {
           "name": " Mineralogía del depósito de Cuesta Alta, Cerro Minado, Huercal-Overa, Almería",
           "description": "The objective is to identify the primary mineralization, as well as the genetic mechanism that gives rise to the Cuesta Alta deposit in Almería. The study has been accompanied by a study of reflected light microscopy and SEM-DS.",
-          "URL": "https://www.researchgate.net/publication/331999100_Mineralogia_del_Deposito_de_Cuesta_Alta_Cerro_Minado_Huercal-Overa_Almeria"
+          "URL": "https://www.researchgate.net/publication/331999100_Mineralogia_del_Deposito_de_Cuesta_Alta_Cerro_Minado_Huercal-Overa_Almeria",
+          "image": {
+            "alt": "Partners-logo-CSIC.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/971d0842-0737-4b71-9065-d6a85191f1ba_partners-logo-csic.jpg"
+          }
         },
         "type": "post",
         "publishingDate": "2012-06-01",
