@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,13 +9,16 @@
       "name": "Ferran",
       "surnames": "Buireu",
       "title": "Senior Software Engineer",
-      "description": "After 7 years as a developer, I find that new challenges and leading varied projects to success are what most motivates me, and I enjoy using my postgraduate training in geophysics to develop clean and efficient solutions to complex issues. Teamwork and a growth-friendly environment are key to me.\n\nIn my spare time, I cultivate my mentoring & communication skills by tutoring developers from around the world, and I strive to become a multitasking ninja by working as a freelancer and open-source contributor on several platforms. Sometimes I share my programming delusions by writing blog posts.\n\nBesides programming, my passions include football, playing the guitar, and preparing for my next marathon.",
+      "description": "",
       "avatar": {
         "alt": "profile.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/2da1eabf-491d-48c3-8da9-f465f1e47ada_profile.jpeg"
       },
       "location": {
-        "notes": "Barcelona"
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -560,67 +563,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GraphQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Flutter",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
           "type": "technology"
         }
       },
@@ -632,13 +590,31 @@
       },
       {
         "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Scss",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Serverless",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -650,7 +626,37 @@
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Dart",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Serverless",
           "type": "technology"
         }
       }
@@ -664,6 +670,7 @@
         "finishDate": "2021-10-01",
         "institution": {
           "name": "Arc ",
+          "description": "",
           "URL": "https://arc.dev/@fbuireu",
           "image": {
             "alt": "share-logo.png",
@@ -768,11 +775,11 @@
             "type": "technology"
           },
           {
-            "name": "Excel",
+            "name": "Matlab",
             "type": "technology"
           },
           {
-            "name": "Matlab",
+            "name": "Microsoft Excel",
             "type": "technology"
           },
           {
@@ -802,11 +809,11 @@
             "type": "technology"
           },
           {
-            "name": "Excel",
+            "name": "Matlab",
             "type": "technology"
           },
           {
-            "name": "Matlab",
+            "name": "Microsoft Excel",
             "type": "technology"
           }
         ]
@@ -844,7 +851,11 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Tech Lead"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
