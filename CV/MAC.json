@@ -1,52 +1,52 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Ferran",
       "surnames": "Buireu",
       "title": "Senior Software Engineer",
-      "description": "",
+      "description": "After 7 years as a developer, I find that new challenges and leading varied projects to success are what most motivates me, and I enjoy using my postgraduate training in geophysics to develop clean and efficient solutions to complex issues. Teamwork and a growth-friendly environment are key to me.\n\nIn my spare time, I cultivate my mentoring & communication skills by tutoring developers from around the world, and I strive to become a multitasking ninja by working as a freelancer and open-source contributor on several platforms. Sometimes I share my programming delusions by writing blog posts.\n\nBesides programming, my passions include football, playing the guitar, and preparing for my next marathon.",
       "avatar": {
-        "alt": "profile.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/2da1eabf-491d-48c3-8da9-f465f1e47ada_profile.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/2da1eabf-491d-48c3-8da9-f465f1e47ada_profile.jpeg",
+        "alt": "profile.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Barcelona"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "During COVID's lockdown I learnt",
+        "fact": "- How to make a risotto\n- How to flip tortillas (sorry, not sorry)\n"
+      }
+    ],
     "relevantLinks": [
       {
-        "type": "other",
-        "URL": "https://ferranbuireu.dev/"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ferran-buireu/"
       },
       {
         "type": "github",
         "URL": "https://github.com/fbuireu"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/5585371/ferran-buireu"
-      },
-      {
         "type": "twitter",
         "URL": "https://twitter.com/fbuireu"
       },
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/ferran-buireu/"
-      }
-    ],
-    "interestingFacts": [
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/5585371/ferran-buireu"
+      },
       {
-        "topic": "During COVID's lockdown I learnt",
-        "fact": "- How to make a risotto\n- How to flip tortillas (sorry, not sorry)\n"
+        "type": "other",
+        "URL": "https://ferranbuireu.dev/"
       }
     ]
   },
@@ -56,8 +56,8 @@
         "organization": {
           "name": "New Work SE",
           "image": {
-            "alt": "New_Work_SE_Logo_07.2021.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/0514374a-49d1-492a-83a5-081635db5654_new_work_se_logo_07.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/0514374a-49d1-492a-83a5-081635db5654_new_work_se_logo_07.png",
+            "alt": "New_Work_SE_Logo_07.2021.svg.png"
           },
           "URL": "https://www.new-work.se/en"
         },
@@ -107,8 +107,8 @@
         "organization": {
           "name": "Leadtech Innovation",
           "image": {
-            "alt": "1625215584238.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/65648318-b24e-4621-932c-067c07c6bf06_1625215584238.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/65648318-b24e-4621-932c-067c07c6bf06_1625215584238.jpg",
+            "alt": "1625215584238.jpg"
           },
           "URL": "https://leadtech.com/"
         },
@@ -171,8 +171,8 @@
         "organization": {
           "name": "Leadtech Innovation",
           "image": {
-            "alt": "1625215584238.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/bd7bf6e9-7c87-4ae7-9666-9cad9350cd3e_1625215584238.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/bd7bf6e9-7c87-4ae7-9666-9cad9350cd3e_1625215584238.jpg",
+            "alt": "1625215584238.jpg"
           },
           "URL": "https://leadtech.com/"
         },
@@ -192,15 +192,15 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
-                "type": "technology"
-              },
-              {
                 "name": "Flutter",
                 "type": "technology"
               },
               {
                 "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
                 "type": "technology"
               },
               {
@@ -239,8 +239,8 @@
         "organization": {
           "name": "Leadtech Innovation",
           "image": {
-            "alt": "1625215584238.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/23d550fb-9c68-4b5f-b71e-9c18cd7fefe8_1625215584238.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/23d550fb-9c68-4b5f-b71e-9c18cd7fefe8_1625215584238.jpg",
+            "alt": "1625215584238.jpg"
           },
           "URL": "https://leadtech.com/"
         },
@@ -303,8 +303,8 @@
         "organization": {
           "name": "Leadtech Innovation",
           "image": {
-            "alt": "1625215584238.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/7e1bd144-f515-4a8d-a634-df2ba8a2d6b6_1625215584238.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/7e1bd144-f515-4a8d-a634-df2ba8a2d6b6_1625215584238.jpg",
+            "alt": "1625215584238.jpg"
           },
           "URL": "https://leadtech.com/"
         },
@@ -371,8 +371,8 @@
         "organization": {
           "name": "Grup Peralada",
           "image": {
-            "alt": "download.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/354ccc1c-3c70-4b14-a00e-d225d56de7d6_download.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/354ccc1c-3c70-4b14-a00e-d225d56de7d6_download.jpg",
+            "alt": "download.jpg"
           },
           "URL": "https://www.casinobarcelona.com/"
         },
@@ -435,8 +435,8 @@
         "organization": {
           "name": "Malabars",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/a262a02b-7fc9-4f1c-b4b3-a96ddbb7d2af_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/a262a02b-7fc9-4f1c-b4b3-a96ddbb7d2af_logo.png",
+            "alt": "logo.png"
           },
           "URL": "https://www.malabars.com/"
         },
@@ -491,8 +491,8 @@
           "description": "Full-scale project development for an interior design studio in Barcelona. Performing the related parts of system administration, domain and DNS management, site design, development, and programming.",
           "URL": "https://vermell032.com/",
           "image": {
-            "alt": "V032.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/6ca34b0e-2d41-4f66-abaa-1927297a9413_v032.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/6ca34b0e-2d41-4f66-abaa-1927297a9413_v032.png",
+            "alt": "V032.png"
           }
         },
         "type": "sideProject",
@@ -500,7 +500,6 @@
           {
             "name": "Developer",
             "startDate": "2016-11-01",
-            "finishDate": "2016-12-01",
             "competences": [
               {
                 "name": "Bootstrap",
@@ -530,7 +529,8 @@
                 "name": "jQuery",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2016-12-01"
           }
         ]
       }
@@ -542,20 +542,20 @@
           "description": "The objective is to identify the primary mineralization, as well as the genetic mechanism that gives rise to the Cuesta Alta deposit in Almería. The study has been accompanied by a study of reflected light microscopy and SEM-DS.",
           "URL": "https://www.researchgate.net/publication/331999100_Mineralogia_del_Deposito_de_Cuesta_Alta_Cerro_Minado_Huercal-Overa_Almeria",
           "image": {
-            "alt": "Partners-logo-CSIC.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/971d0842-0737-4b71-9065-d6a85191f1ba_partners-logo-csic.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/971d0842-0737-4b71-9065-d6a85191f1ba_partners-logo-csic.jpg",
+            "alt": "Partners-logo-CSIC.jpg"
           }
         },
         "type": "post",
         "publishingDate": "2012-06-01",
+        "tags": [
+          "Geology"
+        ],
         "relatedCompetences": [
           {
             "name": "Autocad",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Geology"
         ]
       }
     ]
@@ -563,76 +563,25 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Limited working proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gatsby",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GraphQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scss",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Storybook",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
           "type": "technology"
         }
       },
@@ -650,13 +599,67 @@
       },
       {
         "skill": {
-          "name": "Firebase",
+          "name": "Gatsby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Serverless",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Storybook",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -667,16 +670,15 @@
         "degreeAchieved": true,
         "name": "Arc Certified Remote Developer",
         "startDate": "2021-10-01",
-        "finishDate": "2021-10-01",
         "institution": {
           "name": "Arc ",
-          "description": "",
           "URL": "https://arc.dev/@fbuireu",
           "image": {
-            "alt": "share-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/83b3f813-e38b-4010-894f-c0b4cbcefe61_share-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/83b3f813-e38b-4010-894f-c0b4cbcefe61_share-logo.png",
+            "alt": "share-logo.png"
           }
         },
+        "finishDate": "2021-10-01",
         "linkedCompetences": [
           {
             "name": "JavaScript",
@@ -699,18 +701,48 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "BSc in Geology",
+        "startDate": "2009-09-01",
+        "institution": {
+          "name": "Universitat de Barcelona",
+          "description": "The general objective of the career is to form professionals with wide and large knowledge in the principles and practical applications of geology, focusing in the skills to work in private and public sector companies in the field, public sector geological services, research, and education, knowing how to adapt in an evolving work environment.",
+          "URL": "https://www.ub.edu/web/ub/en/estudis/oferta_formativa/graus/fitxa/G/G1043/index.html?",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/43ca8aa6-e7c2-46d9-8228-0891647d3066_escutub.jpg",
+            "alt": "escutUB.jpg"
+          }
+        },
+        "finishDate": "2013-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Autocad",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Certificate of Higher Education in Web Development",
         "startDate": "2014-09-01",
-        "finishDate": "2016-06-01",
         "institution": {
           "name": "STUCOM Centre d'Estudis",
           "description": "The main goal of the course is to develop, implement and maintain web applications, regardless of the model used and using specific technologies, ensuring access to the data safety and fulfilling the accessibility, usability and quality criteria demanded in the established standards.",
           "URL": "https://www.stucom.com/es/ciclo-formativo-grado-superior-desarrollo-aplicaciones-web-cfgs-daw/",
           "image": {
-            "alt": "LOGO_CURS.2.1.1.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/55fc9a7c-e97d-48f7-ac32-061fc7271a92_logo_curs.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/55fc9a7c-e97d-48f7-ac32-061fc7271a92_logo_curs.jpg",
+            "alt": "LOGO_CURS.2.1.1.jpg"
           }
         },
+        "finishDate": "2016-06-01",
         "linkedCompetences": [
           {
             "name": "Bootstrap",
@@ -759,16 +791,16 @@
         "degreeAchieved": true,
         "name": "MSc in Geology and Reservoir Geophysics",
         "startDate": "2013-09-01",
-        "finishDate": "2014-07-01",
         "institution": {
           "name": "Universitat de Barcelona",
           "description": "The master's degree in Reservoir geology and geophysics is an interuniversity degree coordinated by the University of Barcelona and the Autonomous University of Barcelona.\n\nIt is intended to provide students with training in the main lines of R&D&I currently pursued in the exploration and geological and geophysical characterization of geological reservoirs.\nStudents will gain familiarity with the most modern techniques and tools currently used by the members of research teams involved as teaching faculty in the program. These techniques and tools include the three-dimensional characterization of reservoirs and the analogical and numerical modeling of geological processes.\n\nThe rapid spread of these techniques makes them fundamental to the effective characterization of structural systems and sedimentary reservoirs.",
           "URL": "https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_universitari/fitxa/R/M0Z05/index.html",
           "image": {
-            "alt": "escutUB.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/5bf9e073-6b01-4b4e-a545-3e029d4dfe2e_escutub.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/5bf9e073-6b01-4b4e-a545-3e029d4dfe2e_escutub.jpg",
+            "alt": "escutUB.jpg"
           }
         },
+        "finishDate": "2014-07-01",
         "linkedCompetences": [
           {
             "name": "Autocad",
@@ -787,36 +819,26 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "BSc in Geology",
-        "startDate": "2009-09-01",
-        "finishDate": "2013-07-01",
-        "institution": {
-          "name": "Universitat de Barcelona",
-          "description": "The general objective of the career is to form professionals with wide and large knowledge in the principles and practical applications of geology, focusing in the skills to work in private and public sector companies in the field, public sector geological services, research, and education, knowing how to adapt in an evolving work environment.",
-          "URL": "https://www.ub.edu/web/ub/en/estudis/oferta_formativa/graus/fitxa/G/G1043/index.html?",
-          "image": {
-            "alt": "escutUB.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/43ca8aa6-e7c2-46d9-8228-0891647d3066_escutub.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Autocad",
-            "type": "technology"
-          },
-          {
-            "name": "Matlab",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft Excel",
-            "type": "technology"
-          }
-        ]
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team management",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -824,13 +846,24 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/ferran-buireu/"
+          "URL": "https://www.linkedin.com/in/ferran-buireu/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/5585371/ferran-buireu"
+          "URL": "https://stackoverflow.com/users/5585371/ferran-buireu",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/fbuireu",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/fbuireu",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "fbuireu@gmail.com"
       ]
     },
     "preferences": {
@@ -857,5 +890,14 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My ideal job would be in a company that focuses on the worker, seeing them as someone to care for so that they give the best of themselves in return, a place that cares about the well-being and development of its workers, that invests in them. In a company that took care of the ethics of its projects and its transparency.\n\nOn a technical level, a company that has cutting-edge projects, with striking technologies and good practices, that is not afraid to innovate and focus on new developments, that thinks things through before doing them, thinking in the long term of code quality rather than the amount.\n\nA company to rule them all.",
+    "goodPractices": "TDD, DRY, SOLID. Clean Architecture, Design Patterns, Clean Code.",
+    "projects": [
+      {
+        "name": " Vermell 032"
+      }
+    ]
   }
 }
