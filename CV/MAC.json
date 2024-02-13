@@ -892,6 +892,20 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "My ideal job would be in a company that focuses on the worker, seeing them as someone to care for so that they give the best of themselves in return, a place that cares about the well-being and development of its workers, that invests in them. In a company that took care of the ethics of its projects and its transparency.\n\nOn a technical level, a company that has cutting-edge projects, with striking technologies and good practices, that is not afraid to innovate and focus on new developments, that thinks things through before doing them, thinking in the long term of code quality rather than the amount.\n\nA company to rule them all.",
     "goodPractices": "TDD, DRY, SOLID. Clean Architecture, Design Patterns, Clean Code.",
     "projects": [
