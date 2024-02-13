@@ -581,6 +581,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -588,6 +594,12 @@
       {
         "skill": {
           "name": "Dart",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -635,6 +647,12 @@
       },
       {
         "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -660,6 +678,12 @@
       {
         "skill": {
           "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
