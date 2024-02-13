@@ -586,6 +586,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Astro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -635,6 +641,12 @@
       {
         "skill": {
           "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
           "type": "technology"
         }
       },
