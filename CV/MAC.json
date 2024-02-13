@@ -652,12 +652,6 @@
       },
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -676,19 +670,13 @@
       },
       {
         "skill": {
-          "name": "Storybook",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Vue",
+          "name": "Vitest",
           "type": "technology"
         }
       }
