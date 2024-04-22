@@ -904,6 +904,29 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certified Secure Developer",
+        "startDate": "2024-03-01",
+        "institution": {
+          "name": "HackEDU",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/32059cbd-0794-47eb-85d4-0d8e0a08c97f_813064.png",
+            "alt": "813064.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "MSc in Geology and Reservoir Geophysics",
