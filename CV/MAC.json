@@ -487,6 +487,51 @@
     "projects": [
       {
         "details": {
+          "name": "Farmàcia de l'Ametller",
+          "description": "I played a pivotal role in an integral support and development project for a pharmacy in Caldes de Montbui, Barcelona. My responsibilities spanned system administration, domain and DNS management, and active involvement in the design, development, programming, creation of Advanced Custom Fields (ACF), as well as implementation of events and promotions. Additionally, I contributed to SEO optimization for the website.",
+          "URL": "https://farmaciadelametller.cat/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/a8891664-c766-4688-98f3-1d33bbb2f91d_isotipo-color-2.svg",
+            "alt": "Isotipo-color-2.svg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Farmàcia del Terraplè",
           "description": "I played a pivotal role in a comprehensive support and development project for a pharmacy in Molins de Rei, Barcelona. My responsibilities spanned system administration, domain and DNS management, and active involvement in the design, development, programming, creation of Advanced Custom Fields (ACF), as well as implementation of events and promotions. Additionally, I contributed to SEO optimization for the website.",
           "URL": "https://farmaciaterraple.com/",
@@ -983,6 +1028,9 @@
     "projects": [
       {
         "name": " Vermell 032"
+      },
+      {
+        "name": "Farmàcia de l'Ametller"
       },
       {
         "name": "Farmàcia del Terraplè"
