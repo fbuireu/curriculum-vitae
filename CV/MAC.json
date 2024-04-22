@@ -54,6 +54,65 @@
     "jobs": [
       {
         "organization": {
+          "name": "Gartner",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/1f06666e-7d2f-4a96-acc3-e27266da9196_channels4_profile.jpg",
+            "alt": "channels4_profile.jpg"
+          },
+          "URL": "https://www.gartner.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2024-03-01",
+            "challenges": [
+              {
+                "description": "Responsible for the full-stack development and architecture of GPI (Gartner Peer Inisights) and GPC (Gartner Peer Community) at Gartner. Those are high scalability and high traffic sites, with complex data handling and use-cases, and significant emphasis on SEO. \nSpearheading new projects and laying the groundwork and standards for various MVPs and refactoring old projects to add new and best practices standards\nAlso conducting interviews for new hires, providing mentoring, and personal development."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Playwright",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "New Work SE",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/0514374a-49d1-492a-83a5-081635db5654_new_work_se_logo_07.png",
