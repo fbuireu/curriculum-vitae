@@ -65,9 +65,10 @@
           {
             "name": "Senior Software Engineer",
             "startDate": "2022-07-01",
+            "finishDate": "2024-03-01",
             "challenges": [
               {
-                "description": "Responsible for a B2B part of the New Work SE (XING) recruiting platform. Creating a new brand tool merging the existing monoliths coded in different programming languages."
+                "description": "Responsible for frontend development and architecture in the B2B section of New Work SE (onlyfy by XING) for job ad creation. A role of high responsibility and heavy traffic, following the microfrontends architecture with high-quality standards and best practices, where scalability is key. Also, decoupling legacy parts from a monolith and integrating them into microfrontends. In charge of mentoring, coaching, and team supervision.\n"
               }
             ],
             "competences": [
@@ -81,6 +82,14 @@
               },
               {
                 "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
