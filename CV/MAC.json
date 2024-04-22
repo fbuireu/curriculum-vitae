@@ -144,11 +144,19 @@
                 "type": "technology"
               },
               {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
                 "name": "NextJS",
                 "type": "technology"
               },
               {
                 "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Playwright",
                 "type": "technology"
               },
               {
@@ -161,6 +169,10 @@
               },
               {
                 "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
                 "type": "technology"
               },
               {
