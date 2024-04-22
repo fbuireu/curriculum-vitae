@@ -1089,6 +1089,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
           "name": "GraphQL",
           "type": "technology"
         },
