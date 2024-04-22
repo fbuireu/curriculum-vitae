@@ -1097,6 +1097,10 @@
           "type": "technology"
         },
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
