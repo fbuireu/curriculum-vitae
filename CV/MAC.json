@@ -772,24 +772,6 @@
       },
       {
         "skill": {
-          "name": "Dart",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Flutter",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Gatsby",
           "type": "technology"
         }
@@ -827,6 +809,12 @@
       {
         "skill": {
           "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Playwright",
           "type": "technology"
         }
       },
