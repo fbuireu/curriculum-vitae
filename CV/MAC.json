@@ -487,6 +487,55 @@
     "projects": [
       {
         "details": {
+          "name": "Farmàcia del Terraplè",
+          "description": "I played a pivotal role in a comprehensive support and development project for a pharmacy in Molins de Rei, Barcelona. My responsibilities spanned system administration, domain and DNS management, and active involvement in the design, development, programming, creation of Advanced Custom Fields (ACF), as well as implementation of events and promotions. Additionally, I contributed to SEO optimization for the website.",
+          "URL": "https://farmaciaterraple.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/a8492523-9961-4323-930b-58a6d2cc2313_cropped-diseno_sin_t.png",
+            "alt": "cropped-Diseno_sin_titulo-removebg-preview.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-03-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "DNS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": " Vermell 032",
           "description": "Full-scale project development for an interior design studio in Barcelona. Performing the related parts of system administration, domain and DNS management, site design, development, and programming.",
           "URL": "https://vermell032.com/",
@@ -934,6 +983,9 @@
     "projects": [
       {
         "name": " Vermell 032"
+      },
+      {
+        "name": "Farmàcia del Terraplè"
       }
     ]
   }
