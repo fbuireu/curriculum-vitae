@@ -1028,26 +1028,6 @@
           }
         ]
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mentoring ability",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Team management",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
@@ -1069,9 +1049,6 @@
           "URL": "https://twitter.com/fbuireu",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "fbuireu@gmail.com"
       ]
     },
     "preferences": {
