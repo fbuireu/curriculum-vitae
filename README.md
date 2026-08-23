@@ -2,7 +2,7 @@
 
 # Ferran Buireu's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/ferran-buireu).
+This repository contains **my professional data**, stored as a [MAC](./CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/ferran-buireu).
 <br/>
 <br/>
 
@@ -40,8 +40,8 @@ The structure of this repo is pretty simple. You have all metadata and config fi
     │
     └── ...
 
-- [/cv](/cv), where you can find multiple versions of my CV (eg. `MAC.json` or `MAC_dev_ES.json`).
-- [/assets](/assets), where I store assets related with my CVs (eg. pictures, certifications, etc.).
+- [/CV](./CV), where you can find multiple versions of my CV (eg. [`MAC.json`](./CV/MAC.json) or `MAC_dev_ES.json`).
+- [/assets](./assets), where I store assets related with my CVs (eg. pictures, certifications, etc.).
 
 ## 🔗 How can you sync your Manfred profile with your own repo
 
