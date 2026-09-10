@@ -27,7 +27,7 @@ This repository contains **my professional data**, stored as a [MAC](./CV/MAC.js
 
 ## 📁 Folder Structure
 
-The structure of this repo is pretty simple. You have all metadata and config files on the base directory. There, you will find more files and folders, but just two are directly related and relevant to my MAC, `/cv` and `/assets`:
+The structure of this repo is pretty simple. You have all metadata and config files on the base directory. There, you will find more files and folders, but only `/cv` and `/assets` are directly related and relevant to my MAC:
 
     .
     │
