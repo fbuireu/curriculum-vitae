@@ -1052,7 +1052,11 @@
         "details": {
           "name": "Hacktoberfest 2025 Supercontributor",
           "description": "Recognised as a Supercontributor in Hacktoberfest 2025 for open-source contributions during the event.",
-          "URL": "https://hacktoberfest.com"
+          "URL": "https://www.holopin.io/hacktoberfest2025/userbadge/cmglxl4060016l504z6lkg9ts",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/6e6fc4e8-a6a5-49be-bd18-91618bd9eae0_holopin.jpg",
+            "alt": "holopin.jpg"
+          }
         },
         "type": "achievement",
         "publishingDate": "2025-10-01"
