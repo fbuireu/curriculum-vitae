@@ -118,7 +118,7 @@
       },
       {
         "organization": {
-          "name": "New Work SE",
+          "name": "XING",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/0514374a-49d1-492a-83a5-081635db5654_new_work_se_logo_07.png",
             "alt": "New_Work_SE_Logo_07.2021.svg.png"
@@ -132,7 +132,7 @@
             "finishDate": "2024-03-01",
             "challenges": [
               {
-                "description": "Responsible for frontend development and architecture in the B2B section of New Work SE (onlyfy by XING) for job ad creation. A role of high responsibility and heavy traffic, following the microfrontends architecture with high-quality standards and best practices, where scalability is key. Also, decoupling legacy parts from a monolith and integrating them into microfrontends. In charge of mentoring, coaching, and team supervision.\n"
+                "description": "Frontend engineer and architect for the B2B job-ad creation product of onlyfy by XING: a high-traffic platform built on a microfrontend architecture.\n\n- Owned frontend architecture and quality standards for the job-ad creation flow.\n- Decoupled legacy parts of the monolith and migrated them into independent microfrontends.\n- Mentored and coached engineers and supervised team delivery.\n- Part of the winning team at the company HackWeek (75+ projects) with an AI prototype."
               }
             ],
             "competences": [
