@@ -1290,6 +1290,21 @@
     "studies": [
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Advanced: AI Development Techniques and Augmented Development",
+        "startDate": "2026-07-01",
+        "institution": {
+          "name": "Security Journey",
+          "description": "Advanced training on AI-assisted and augmented software development, with a focus on doing it securely.",
+          "URL": "https://my.securityjourney.com/api/certificates/4ZyQ2qjtYFeyTNmGsqC56O/gartner",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/941e14ab-66c7-480d-a02d-2e53310593df_security-journey.jpg",
+            "alt": "security-journey.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "Arc Certified Remote Developer",
         "startDate": "2021-10-01",
@@ -1328,7 +1343,7 @@
         "startDate": "2009-09-01",
         "institution": {
           "name": "Universitat de Barcelona",
-          "description": "The general objective of the career is to form professionals with wide and large knowledge in the principles and practical applications of geology, focusing in the skills to work in private and public sector companies in the field, public sector geological services, research, and education, knowing how to adapt in an evolving work environment.",
+          "description": "Final thesis: geophysical survey of the Greco-Roman port of Empúries using electrical tomography and induced electromagnetism.",
           "URL": "https://www.ub.edu/web/ub/en/estudis/oferta_formativa/graus/fitxa/G/G1043/index.html?",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/43ca8aa6-e7c2-46d9-8228-0891647d3066_escutub.jpg",
