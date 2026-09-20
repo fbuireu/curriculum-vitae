@@ -587,6 +587,21 @@
       },
       {
         "details": {
+          "name": "github-star-tracker",
+          "description": "GitHub Action written in TypeScript that tracks the stars of your repositories over time and reports the changes. 75+ releases, full CI pipeline and documentation in the repository wiki.",
+          "URL": "https://github.com/fbuireu/github-star-tracker"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-02-01",
+            "finishDate": "2026-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Forever PTO",
           "description": "Web app that helps people plan their paid time off around public holidays to get the longest breaks from the fewest days. Built with Next.js on Cloudflare Workers, Effect, Turso, Stripe, Resend, i18n and Tailwind, following Domain-Driven Design.",
           "URL": "https://forever-pto.com"
@@ -1158,6 +1173,9 @@
       },
       {
         "name": "Forever PTO"
+      },
+      {
+        "name": "github-star-tracker"
       }
     ]
   }
