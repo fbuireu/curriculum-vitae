@@ -332,11 +332,11 @@
         "roles": [
           {
             "name": "Full-stack Developer",
-            "startDate": "2019-05-01",
+            "startDate": "2019-11-01",
             "finishDate": "2020-11-01",
             "challenges": [
               {
-                "description": "Full-stack position specialized in the development of new projects from concept to delivery. The nature of the job requires a code that is optimized for maximum neatness and scalability. Independent technical decision-making on a daily basis, cooperation in the onboarding of new team members, and delivery of team training sessions."
+                "description": "Built new products from concept to delivery, making day-to-day technical decisions independently. Helped onboard new engineers and delivered internal training sessions."
               }
             ],
             "competences": [
