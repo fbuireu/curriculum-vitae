@@ -824,6 +824,15 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Hacktoberfest 2025 Supercontributor",
+          "description": "Recognised as a Supercontributor in Hacktoberfest 2025 for open-source contributions during the event.",
+          "URL": "https://hacktoberfest.com"
+        },
+        "type": "achievement",
+        "publishingDate": "2025-10-01"
+      },
+      {
+        "details": {
           "name": "Stable isotope studies of carbonate-hosted ore deposit in Cerro Minado, Huércal-Overa (Spain)",
           "description": "Cerro Minado deposit is located in the eastern part of the Betic Cordilleras, near Huércal-Overa (Almería, Spain). The mineralization is hosted in the Partaloa Unit dolostone and occurs as veinlets associated with saddle dolomite, and in disseminations. Published in \"Mineral deposit research for a high-tech world\".",
           "URL": "https://www.researchgate.net/publication/268075942_Stable_isotope_studies_of_carbonate_-_hosted_ore_deposit_in_Cerro_Minado_Huercal_-_Overa_Spain"
