@@ -622,6 +622,28 @@
               {
                 "description": "Websites for small businesses, end to end: design, development, hosting, domains and DNS, and SEO. Technology chosen per client."
               }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "DNS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
             ]
           }
         ]
