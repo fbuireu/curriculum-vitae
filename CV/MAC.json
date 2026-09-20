@@ -581,6 +581,24 @@
           {
             "name": "Developer",
             "startDate": "2026-05-01",
+            "competences": [
+              {
+                "name": "Astro",
+                "type": "technology"
+              },
+              {
+                "name": "Dart",
+                "type": "technology"
+              },
+              {
+                "name": "Flutter",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
             "finishDate": "2026-09-01"
           }
         ]
