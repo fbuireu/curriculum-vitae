@@ -713,6 +713,20 @@
               {
                 "description": "Joined the team after the internship. Led a small team of interns building a Java API that gave each user access to data and statistics according to their contracted services."
               }
+            ],
+            "competences": [
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
             ]
           }
         ]
