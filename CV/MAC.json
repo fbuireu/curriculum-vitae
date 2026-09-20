@@ -673,7 +673,11 @@
         "details": {
           "name": "Forever PTO",
           "description": "Web app that helps people plan their paid time off around public holidays to get the longest breaks from the fewest days. Built with Next.js on Cloudflare Workers, Effect, Turso, Stripe, Resend, i18n and Tailwind, following Domain-Driven Design.",
-          "URL": "https://forever-pto.com"
+          "URL": "https://forever-pto.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/ac083418-2ac1-4ab3-9d66-6edd234b9019_forever-pto-logo.png",
+            "alt": "forever-pto-logo.png"
+          }
         },
         "type": "sideProject",
         "roles": [
