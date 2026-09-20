@@ -204,7 +204,7 @@
             "finishDate": "2022-07-01",
             "challenges": [
               {
-                "description": "Leading a Frontend/Full-stack team developing a multiplatform B2C project. Development of new features with high-performance standards, design patterns, and best practices.\nTalent selection & retention, continuous mentoring, guidance, and career plan development. "
+                "description": "Led a frontend/full-stack team building a multiplatform B2C product, reporting to C-level stakeholders.\n\n- Owned delivery of new features under strict performance standards.\n- Ran hiring and retention: interviews, continuous mentoring and individual career plans."
               }
             ],
             "competences": [
@@ -1080,6 +1080,12 @@
       }
     ],
     "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
       {
         "skill": {
           "name": "Team management",
