@@ -744,6 +744,28 @@
               {
                 "description": "Built a Java application linking Google Analytics data to the company database, streamlining day-to-day reporting."
               }
+            ],
+            "competences": [
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
             ]
           }
         ]
