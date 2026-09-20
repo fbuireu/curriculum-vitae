@@ -576,6 +576,22 @@
       },
       {
         "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Analyst and web developer",
+            "startDate": "2016-06-01",
+            "challenges": [
+              {
+                "description": "Websites for small businesses, end to end: design, development, hosting, domains and DNS, and SEO. Technology chosen per client."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Malabars",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/a262a02b-7fc9-4f1c-b4b3-a96ddbb7d2af_logo.png",
