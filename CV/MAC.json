@@ -77,7 +77,15 @@
             ],
             "competences": [
               {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
                 "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
                 "type": "technology"
               },
               {
@@ -93,6 +101,10 @@
                 "type": "technology"
               },
               {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
                 "name": "NextJS",
                 "type": "technology"
               },
@@ -102,6 +114,10 @@
               },
               {
                 "name": "Playwright",
+                "type": "technology"
+              },
+              {
+                "name": "React",
                 "type": "technology"
               },
               {
