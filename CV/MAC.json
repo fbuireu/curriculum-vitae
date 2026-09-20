@@ -612,7 +612,11 @@
       },
       {
         "organization": {
-          "name": "Freelance"
+          "name": "Freelance",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/5515d8a1-b0c0-49b1-98b2-2f4e84cca481_ferran-buireu.png",
+            "alt": "ferran-buireu.png"
+          }
         },
         "roles": [
           {
