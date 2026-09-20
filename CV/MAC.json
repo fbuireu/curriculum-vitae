@@ -1480,6 +1480,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Security Green Belt",
+        "startDate": "2025-07-01",
+        "institution": {
+          "name": "Security Journey",
+          "description": "Secure coding programme covering the most common web vulnerabilities and their mitigations, including JSON Web Tokens and SQL injection.",
+          "URL": "https://my.securityjourney.com/api/certificates/1XBECXks5PYDrpTvRsWsfV/gartner?shared",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/7d558d77-fb11-4655-9e8d-be2a27be957b_security-journey.jpg",
+            "alt": "security-journey.jpg"
+          }
+        }
       }
     ],
     "softSkills": [
