@@ -270,6 +270,23 @@
       },
       {
         "organization": {
+          "name": "MentorCruise",
+          "URL": "https://mentorcruise.com/mentor/ferranbuireu/"
+        },
+        "roles": [
+          {
+            "name": "Mentor",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Long-term 1:1 mentoring for software engineers: career development, interview preparation, job changes and the step from mid-level to senior and beyond, alongside frontend and full-stack engineering and system design. Featured in MentorCruise's \"Meet the Mentor\" series.\n\n10+ mentees · 50+ sessions · 5.0 rating"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Leadtech Innovation",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/bd7bf6e9-7c87-4ae7-9666-9cad9350cd3e_1625215584238.jpg",
