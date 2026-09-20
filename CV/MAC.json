@@ -1091,6 +1091,12 @@
           "name": "Capacity for abstract thinking",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Good verbal communication",
+          "type": "practice"
+        }
       }
     ]
   },
