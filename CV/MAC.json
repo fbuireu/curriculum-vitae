@@ -644,7 +644,11 @@
         "details": {
           "name": "github-star-tracker",
           "description": "GitHub Action written in TypeScript that tracks the stars of your repositories over time and reports the changes. 75+ releases, full CI pipeline and documentation in the repository wiki.",
-          "URL": "https://github.com/fbuireu/github-star-tracker"
+          "URL": "https://github.com/fbuireu/github-star-tracker",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/acbde0e8-6085-41c6-851f-48b3c7cea32b_github-star-tracker-.svg",
+            "alt": "github-star-tracker-logo.svg"
+          }
         },
         "type": "openSource",
         "roles": [
