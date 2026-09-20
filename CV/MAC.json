@@ -1120,6 +1120,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Astro",
           "type": "technology"
         }
@@ -1132,7 +1138,49 @@
       },
       {
         "skill": {
+          "name": "Cloudflare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Dart",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Gatsby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitHub Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
           "type": "technology"
         }
       },
@@ -1162,6 +1210,12 @@
       },
       {
         "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NextJS",
           "type": "technology"
         }
@@ -1186,6 +1240,12 @@
       },
       {
         "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Scss",
           "type": "technology"
         }
@@ -1193,6 +1253,24 @@
       {
         "skill": {
           "name": "Serverless",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Storybook",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Styled Components",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
           "type": "technology"
         }
       },
@@ -1473,6 +1551,14 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "Go",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
       {
         "name": "NodeJS",
         "type": "technology"
