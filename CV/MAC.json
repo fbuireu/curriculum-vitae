@@ -1358,7 +1358,7 @@
         "startDate": "2014-09-01",
         "institution": {
           "name": "STUCOM Centre d'Estudis",
-          "description": "The main goal of the course is to develop, implement and maintain web applications, regardless of the model used and using specific technologies, ensuring access to the data safety and fulfilling the accessibility, usability and quality criteria demanded in the established standards.",
+          "description": "Two-year higher degree covering full-stack web development, databases and deployment.",
           "URL": "https://www.stucom.com/es/ciclo-formativo-grado-superior-desarrollo-aplicaciones-web-cfgs-daw/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/55fc9a7c-e97d-48f7-ac32-061fc7271a92_logo_curs.jpg",
@@ -1439,7 +1439,7 @@
         "startDate": "2013-09-01",
         "institution": {
           "name": "Universitat de Barcelona",
-          "description": "The master's degree in Reservoir geology and geophysics is an interuniversity degree coordinated by the University of Barcelona and the Autonomous University of Barcelona.\n\nIt is intended to provide students with training in the main lines of R&D&I currently pursued in the exploration and geological and geophysical characterization of geological reservoirs.\nStudents will gain familiarity with the most modern techniques and tools currently used by the members of research teams involved as teaching faculty in the program. These techniques and tools include the three-dimensional characterization of reservoirs and the analogical and numerical modeling of geological processes.\n\nThe rapid spread of these techniques makes them fundamental to the effective characterization of structural systems and sedimentary reservoirs.",
+          "description": "Interuniversity master's (UB / UAB) focused on the geological and geophysical characterisation of reservoirs. Thesis: gravimetric study of the La Selva basin.",
           "URL": "https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_universitari/fitxa/R/M0Z05/index.html",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/5bf9e073-6b01-4b4e-a545-3e029d4dfe2e_escutub.jpg",
