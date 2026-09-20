@@ -641,6 +641,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Abalit Technologies"
+        },
+        "roles": [
+          {
+            "name": "Junior web developer",
+            "startDate": "2016-03-01",
+            "finishDate": "2016-04-01",
+            "challenges": [
+              {
+                "description": "Joined the team after the internship. Led a small team of interns building a Java API that gave each user access to data and statistics according to their contracted services."
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
