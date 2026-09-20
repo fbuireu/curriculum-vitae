@@ -611,6 +611,32 @@
           {
             "name": "Developer",
             "startDate": "2025-02-01",
+            "competences": [
+              {
+                "name": "Cloudflare",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
             "finishDate": "2026-09-01"
           }
         ]
