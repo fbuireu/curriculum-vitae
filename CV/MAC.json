@@ -572,6 +572,21 @@
     "projects": [
       {
         "details": {
+          "name": "ContribKit",
+          "description": "Toolkit to showcase open-source contributions: an Astro web app, an SVG embed for GitHub READMEs and a Flutter mobile app built with Clean Architecture and Riverpod.",
+          "URL": "https://contribkit.app"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-05-01",
+            "finishDate": "2026-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Forever PTO",
           "description": "Web app that helps people plan their paid time off around public holidays to get the longest breaks from the fewest days. Built with Next.js on Cloudflare Workers, Effect, Turso, Stripe, Resend, i18n and Tailwind, following Domain-Driven Design.",
           "URL": "https://forever-pto.com"
@@ -1131,6 +1146,9 @@
     "projects": [
       {
         "name": " Vermell 032"
+      },
+      {
+        "name": "ContribKit"
       },
       {
         "name": "Farmàcia de l'Ametller"
