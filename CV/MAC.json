@@ -324,6 +324,24 @@
               {
                 "description": "On-demand 1:1 sessions: career development, interview preparation, code review and architecture advice for developers at every level.\n\n50+ mentees · 87 sessions · 5.0 rating"
               }
+            ],
+            "competences": [
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
             ]
           }
         ]
