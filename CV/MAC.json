@@ -1078,6 +1078,14 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
