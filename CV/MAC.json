@@ -658,6 +658,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Abalit Technologies"
+        },
+        "roles": [
+          {
+            "name": "Web development internship",
+            "startDate": "2015-10-01",
+            "finishDate": "2016-03-01",
+            "challenges": [
+              {
+                "description": "Built a Java application linking Google Analytics data to the company database, streamlining day-to-day reporting."
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
