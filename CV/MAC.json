@@ -614,6 +614,24 @@
           {
             "name": "Developer",
             "startDate": "2026-02-01",
+            "competences": [
+              {
+                "name": "GitHub Actions",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              }
+            ],
             "finishDate": "2026-09-01"
           }
         ]
