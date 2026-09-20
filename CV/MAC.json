@@ -291,6 +291,27 @@
       },
       {
         "organization": {
+          "name": "Codementor",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/d9d1a80d-300d-4b53-8838-08bf13be9127_codementor-logo.svg",
+            "alt": "codementor-logo.svg"
+          },
+          "URL": "https://www.codementor.io/"
+        },
+        "roles": [
+          {
+            "name": "Mentor",
+            "startDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "On-demand 1:1 sessions: career development, interview preparation, code review and architecture advice for developers at every level.\n\n50+ mentees · 87 sessions · 5.0 rating"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Leadtech Innovation",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/bd7bf6e9-7c87-4ae7-9666-9cad9350cd3e_1625215584238.jpg",
