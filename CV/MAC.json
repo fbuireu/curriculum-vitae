@@ -572,6 +572,21 @@
     "projects": [
       {
         "details": {
+          "name": "Forever PTO",
+          "description": "Web app that helps people plan their paid time off around public holidays to get the longest breaks from the fewest days. Built with Next.js on Cloudflare Workers, Effect, Turso, Stripe, Resend, i18n and Tailwind, following Domain-Driven Design.",
+          "URL": "https://forever-pto.com"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-02-01",
+            "finishDate": "2026-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Farmàcia de l'Ametller",
           "description": "Website for a pharmacy in Caldes de Montbui: design, WordPress development with custom fields, events and promotions, hosting, domains and DNS, and SEO.",
           "URL": "https://farmaciadelametller.cat/",
@@ -1122,6 +1137,9 @@
       },
       {
         "name": "Farmàcia del Terraplè"
+      },
+      {
+        "name": "Forever PTO"
       }
     ]
   }
