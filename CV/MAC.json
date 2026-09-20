@@ -737,7 +737,11 @@
       },
       {
         "organization": {
-          "name": "Abalit Technologies"
+          "name": "Abalit Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/1fc83561-93b4-419f-b30d-41197630424b_abalit.jpg",
+            "alt": "abalit.jpg"
+          }
         },
         "roles": [
           {
