@@ -1495,6 +1495,21 @@
             "alt": "security-journey.jpg"
           }
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Verified Mentor",
+        "startDate": "2025-08-01",
+        "institution": {
+          "name": "mentor.sh",
+          "description": "Verification as a mentor on mentor.sh (leadership and mentoring). Credential ID: T2KN58DI.",
+          "URL": "https://mentor.sh/mentors/fbuireu?certification=T2KN58DI",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/56b5b50e-f35a-48dc-a9ea-5dee3984c61d_mentor-sh.jpg",
+            "alt": "mentor-sh.jpg"
+          }
+        }
       }
     ],
     "softSkills": [
