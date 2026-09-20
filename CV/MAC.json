@@ -1576,6 +1576,14 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Elasticsearch",
+          "type": "technology"
+        },
+        {
           "name": "Go",
           "type": "technology"
         },
