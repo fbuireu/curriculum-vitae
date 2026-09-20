@@ -607,7 +607,11 @@
         "details": {
           "name": "ContribKit",
           "description": "Toolkit to showcase open-source contributions: an Astro web app, an SVG embed for GitHub READMEs and a Flutter mobile app built with Clean Architecture and Riverpod.",
-          "URL": "https://contribkit.app"
+          "URL": "https://contribkit.app",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/2f1b9f12-6d7d-4ec1-8ba9-a617e6d22805_contribkit-logo.png",
+            "alt": "contribkit-logo.png"
+          }
         },
         "type": "sideProject",
         "roles": [
