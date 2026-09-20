@@ -1510,6 +1510,21 @@
             "alt": "mentor-sh.jpg"
           }
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Volunteer Translation Excellence",
+        "startDate": "2025-12-01",
+        "institution": {
+          "name": "Proton",
+          "description": "Recognition for volunteer translation of Proton's privacy-focused products into Catalan, through its community localization programme.",
+          "URL": "https://proton.me/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/09/20/61f96de3-0181-4b67-962a-2b0a84109f42_proton.jpg",
+            "alt": "proton.jpg"
+          }
+        }
       }
     ],
     "softSkills": [
