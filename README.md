@@ -3,6 +3,9 @@
 # Ferran Buireu's CV
 
 This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/ferran-buireu).
+
+> The Manfred connector rewrites this whole README each time it syncs, not only the *CV Last Sync* badge: the sync of 2026-09-20 put back the template text that had been edited out of it. An edit here lasts until the next sync.
+
 <br/>
 <br/>
 
@@ -32,16 +35,15 @@ The structure of this repo is pretty simple. You have all metadata and config fi
     .
     │
     ├── CV
-    │    ├── MAC[_instance1][_language1].json
-    │    ├── ...
-    │    └── MAC[_instanceN][_languageN].json
+    │    └── MAC.json
     │
     ├── assets
+    │    └── cv_icon.png
     │
     └── ...
 
-- [/CV](/CV), where you can find multiple versions of my CV (eg. `MAC.json` or `MAC_dev_ES.json`).
-- [/assets](/assets), where I store assets related with my CVs (eg. pictures, certifications, etc.).
+- [/CV](/CV), which holds my CV, [`MAC.json`](/CV/MAC.json), in English.
+- [/assets](/assets), which holds `cv_icon.png`, the icon at the top of this README.
 
 ## 🔗 How can you sync your Manfred profile with your own repo
 
